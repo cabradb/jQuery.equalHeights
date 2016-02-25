@@ -1,11 +1,11 @@
 {
   "name": "jQuery.equalHeights",
   "version": "1.5.2",
-  "main": "jQuery.equalHeights.js",
+  "main": "jQuery.equalheights.js",
   "dependencies": {
   	"jquery": ">=1.7"
   },
   "main": [
-    "jquery.equalHeights.js"
+    "jquery.equalheights.js"
   ]
 }
